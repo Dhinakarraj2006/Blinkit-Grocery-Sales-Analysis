@@ -1,5 +1,5 @@
 # Blinkit-Grocery-Sales-Analysis
-Blinkit Grocery Sales Analysis Dashboard built using Excel / WPS Spreadsheets.
+Blinkit Grocery Sales Analysis Dashboard built using Excel WPS Spreadsheets.
 # Blinkit Grocery Sales Analysis Dashboard
 
 An end-to-end data analytics project evaluating 8,523 grocery transactions across 10 quick-commerce dark stores/outlets. This project covers systematic data auditing, categorical cleaning, multi-dimensional Pivot Table modeling, and an interactive executive dashboard built entirely in spreadsheets.
